@@ -5,7 +5,8 @@ using namespace std;
 
 int main() {
         double x = 0, y = 0;
-        cout << "Wprowadz pierwsza liczbe rzeczywista: "<<endl;
+	cout << "Dzien dobry!"<<endl;
+	cout << "Wprowadz pierwsza liczbe rzeczywista: "<<endl;
         cin >> x;
         cout << "Wprowadz druga liczbe rzeczywista: "<<endl;
         cin >> y;
