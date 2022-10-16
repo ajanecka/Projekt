@@ -1,4 +1,4 @@
-#include "Operations.hpp"
+#include "Dzialania.hpp"
 
 int sum (int a, int b) 
 {

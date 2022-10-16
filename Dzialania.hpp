@@ -1,5 +1,5 @@
-#ifndef Operations_hpp
-#define Operations_hpp
+#ifndef Dzialania_hpp
+#define Dzialania_hpp
 
 int sum (int a, int b);
 int diff (int a, int b);
