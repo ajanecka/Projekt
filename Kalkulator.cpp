@@ -3,7 +3,12 @@
 using namespace std;
 
 int main() {
-int a,b;
+int a = 0, b = 0;
+
+cout << "Podaj a" << endl;
+cin >> a;
+cout << "Podaj b" << endl;
+cin >> b;
 
 cout << "Wynik dodawania = " << sum(a,b) << endl;
 cout << "Wynik odejmowania = " << diff(a,b) << endl;
